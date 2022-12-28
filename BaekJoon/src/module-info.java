@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author piano
+ *
+ */
+module BaekJoon {
+}
